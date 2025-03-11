@@ -1,3 +1,3 @@
-module github.com/aditya002p/Kirana
+module backend-image-service
 
 go 1.24.1
